@@ -1,0 +1,43 @@
+.heading {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    width: 30%; 
+    max-width: 70%;
+    margin: 0 auto; 
+    position: sticky;
+    top: 0%;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.text {
+    font-size: 110%;
+    text-align: left; 
+}
+
+.computer {
+    max-width: 25%;
+    margin-left: 20px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.link {
+    font-size: 140%;
+}
+
+.textpar {
+    font-size: larger;
+}
+
+
+
